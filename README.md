@@ -31,7 +31,8 @@ By: Kirsten Casteel
 
 *This is the  tree-based model's feature importances. The top 5 are Item_Visibility, Item_MRP, Outlet_Type_Grocery Store, Outlet_Establishment_Year and Outlet_Identifier_OUT027*
 
-![annotated features](https://github.com/KirstenC32/Prediction-of-Product-Sales/assets/145694223/2655ccd6-8399-40b2-a157-10214a0a5187)
+![FEATURES](https://github.com/KirstenC32/Prediction-of-Product-Sales/assets/145694223/c429391e-e45b-4a26-adb4-c094bb821dd1)
+
 
 
 
