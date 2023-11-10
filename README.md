@@ -24,7 +24,8 @@ By: Kirsten Casteel
 
 *This is the LinearRegression coefficients plot. The top 3 important coefficiants are Outlet_Type_Grocery Store, Outlet_Identifier_OUT027, and Outlet_Type_Supermarket Type3.*
 
-![coefficiants pretty](https://github.com/KirstenC32/Prediction-of-Product-Sales/assets/145694223/3b5e0a09-7884-47a0-b775-3304748d2f55)
+![best coef graph](https://github.com/KirstenC32/Prediction-of-Product-Sales/assets/145694223/3e844935-d031-4569-830a-6a412cd1a1c5)
+
 
 
 
