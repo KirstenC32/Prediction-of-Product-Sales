@@ -37,7 +37,7 @@ By: Kirsten Casteel
 ## Recommendations:
 
 I would reccomend using the tuned random forest model for determining product sales. This model is performing well about 69% of the time.
-The MAE lets us know that our predictions are off by about 733.11 dollars on average. ` I think this model is close to balanced between testing and training, maybe slightly underfit.
+The MAE lets us know that our predictions are off by about 733.11 dollars on average. ` I think this model is close to balanced between testing and training, maybe slightly underfit. I would also recommend dropping the rest of the columns that do not seem to play a role in sales after viewing the top 10 important features.
 
 ## Limitations & Next Steps
 
