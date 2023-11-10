@@ -13,6 +13,13 @@ By: Kirsten Casteel
 
 ![Heat Map Sales Prediction Data](https://github.com/KirstenC32/KirstenC32/assets/145694223/a6c02c03-3925-4cf7-b479-4f782a1bbdc1)
 
+*This is the LinearRegression coefficients plot. The top 3 important coefficiants are Outlet_Type_Grocery Store, Outlet_Identifier_OUT027, and Outlet_Type_Supermarket Type3.*
+![Coefficiants](https://github.com/KirstenC32/Prediction-of-Product-Sales/assets/145694223/5f083893-d44c-4cbd-991d-9e8e27ed278a)
+
+*This is the  tree-based model's feature importances. The top 5 are Item_Visibility, Item_MRP, Outlet_Type_Grocery Store, Outlet_Establishment_Year and Outlet_Identifier_OUT027*
+![Forest Feature importance](https://github.com/KirstenC32/Prediction-of-Product-Sales/assets/145694223/8b4f4376-9616-4b68-ad71-5bca92f70392)
+
+
 ## Recommendations:
 More of your own text here
 
