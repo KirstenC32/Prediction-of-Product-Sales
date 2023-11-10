@@ -6,6 +6,7 @@ By: Kirsten Casteel
 ## Business Purpose
 ***The purpose is to utilize past data to make future sales predictions using the CRISP-DM process***
 
+## Visualization 
 *The following graph shows the various items and the count of those items sales. This gives insight in to what categories of items produce the most/least sales as well as providing quick visibility of our items popularity.*
 
 ![Type vs Sales](https://github.com/KirstenC32/Prediction-of-Product-Sales/assets/145694223/aa56791d-4f85-4a36-956a-7698b2c1c77d)
