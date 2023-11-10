@@ -16,7 +16,8 @@ By: Kirsten Casteel
 
 *This is the LinearRegression coefficients plot. The top 3 important coefficiants are Outlet_Type_Grocery Store, Outlet_Identifier_OUT027, and Outlet_Type_Supermarket Type3.*
 
-![Coefficiants](https://github.com/KirstenC32/Prediction-of-Product-Sales/assets/145694223/5f083893-d44c-4cbd-991d-9e8e27ed278a)
+![Actual coefficiant graph](https://github.com/KirstenC32/Prediction-of-Product-Sales/assets/145694223/dda1ebc5-6211-4ff5-bb8d-ce37b381493c)
+
 
 *This is the  tree-based model's feature importances. The top 5 are Item_Visibility, Item_MRP, Outlet_Type_Grocery Store, Outlet_Establishment_Year and Outlet_Identifier_OUT027*
 ![Forest Feature importance](https://github.com/KirstenC32/Prediction-of-Product-Sales/assets/145694223/8b4f4376-9616-4b68-ad71-5bca92f70392)
